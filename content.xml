@@ -1,0 +1,2168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260522013948KOBFMX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260522013948SDLOCY</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¿Tenemos educación medioambiental?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Lengua Castellana y Literatura / Ciencias Naturales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Paula María Martín Díaz</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779397711968</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>507af4f4-18ef-4681-bc69-e82ed7504c7a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Portada</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>507af4f4-18ef-4681-bc69-e82ed7504c7a</odePageId>
+      <odeBlockId>block-1779401740078-2ww8qb6hc</odeBlockId>
+      <blockName>PROYECTO &quot;¿TENEMOS EDUCACIÓN MEDIOAMBIENTAL?&quot;</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>507af4f4-18ef-4681-bc69-e82ed7504c7a</odePageId>
+          <odeBlockId>block-1779401740078-2ww8qb6hc</odeBlockId>
+          <odeIdeviceId>idevice-1779401740077-au3a79qoi</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779401740077-au3a79qoi" title="" href="asset://d0aa5fbb-6dae-94b7-a474-f95413e05770.png" class="imageLink">  <div class="imageElement">   <img src="asset://d0aa5fbb-6dae-94b7-a474-f95413e05770.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779401740077-au3a79qoi","img_0":{"img":"asset://d0aa5fbb-6dae-94b7-a474-f95413e05770.png","thumbnail":"asset://d0aa5fbb-6dae-94b7-a474-f95413e05770.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>507af4f4-18ef-4681-bc69-e82ed7504c7a</odePageId>
+      <odeBlockId>block-1779400050129-pdyat3yz6</odeBlockId>
+      <blockName>Debatimos si nuestras acciones son correctas</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>507af4f4-18ef-4681-bc69-e82ed7504c7a</odePageId>
+          <odeBlockId>block-1779400050129-pdyat3yz6</odeBlockId>
+          <odeIdeviceId>idevice-1779400050129-ndf2tekg5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Curso</strong>: 6º de Educación Primaria</p>
+<p><strong>Área</strong>: Lengua Castellana y Literatura / Ciencias Naturales.</p>
+<p><strong>Producto final</strong>: Poster / Infografía sobre cómo mejorar nuestras acciones para cuidar el medio ambiente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779400050129-ndf2tekg5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Curso</strong>: 6º de Educación Primaria</p>\n<p><strong>Área</strong>: Lengua Castellana y Literatura / Ciencias Naturales.</p>\n<p><strong>Producto final</strong>: Poster / Infografía sobre cómo mejorar nuestras acciones para cuidar el medio ambiente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779395373214-7xqdcq5o2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Alumnado</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779395406198-puqptktl5</odePageId>
+  <odeParentPageId>page-1779395373214-7xqdcq5o2</odeParentPageId>
+  <pageName>Uso de la tecnología de forma segura</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Uso de la tecnología de forma segura</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779395406198-puqptktl5</odePageId>
+      <odeBlockId>block-1779395437733-k96xv5yhb</odeBlockId>
+      <blockName>Protege tus datos personales</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395406198-puqptktl5</odePageId>
+          <odeBlockId>block-1779395437733-k96xv5yhb</odeBlockId>
+          <odeIdeviceId>idevice-1779393798955-ldh7hus3l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>No compartas: </strong>contraseñas, dirección, teléfono, fotos personales.</li>
+<li>Usa <strong>contraseñas seguras.</strong></li>
+<li><strong>Cierra sesión</strong> en equipos compartidos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779393798955-ldh7hus3l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>No compartas: </strong>contraseñas, dirección, teléfono, fotos personales.</li>\n<li>Usa <strong>contraseñas seguras.</strong></li>\n<li><strong>Cierra sesión</strong> en equipos compartidos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779395406198-puqptktl5</odePageId>
+      <odeBlockId>block-1779393890675-gnb3lq0xp</odeBlockId>
+      <blockName>Buenas prácticas digitales</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395406198-puqptktl5</odePageId>
+          <odeBlockId>block-1779393890675-gnb3lq0xp</odeBlockId>
+          <odeIdeviceId>idevice-1779393890673-v4o8j10xw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>
+<p>Usa páginas web fiables.</p>
+</li>
+<li>
+<p>Respeta la privacidad de los demás.</p>
+</li>
+<li>
+<p>Pide permiso antes de subir fotos o vídeos.</p>
+</li>
+<li>
+<p>No difundas información falsa.</p>
+</li>
+<li>
+<p>Utiliza herramientas autorizadas por el centro educativo.</p>
+</li>
+<li>
+<p>Mantén una actitud respetuosa en Internet.</p>
+</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779393890673-v4o8j10xw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>\n<p>Usa páginas web fiables.</p>\n</li>\n<li>\n<p>Respeta la privacidad de los demás.</p>\n</li>\n<li>\n<p>Pide permiso antes de subir fotos o vídeos.</p>\n</li>\n<li>\n<p>No difundas información falsa.</p>\n</li>\n<li>\n<p>Utiliza herramientas autorizadas por el centro educativo.</p>\n</li>\n<li>\n<p>Mantén una actitud respetuosa en Internet.</p>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779395406198-puqptktl5</odePageId>
+      <odeBlockId>block-1779393983242-j6tlmpuvb</odeBlockId>
+      <blockName>Evita riesgos en Internet</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395406198-puqptktl5</odePageId>
+          <odeBlockId>block-1779393983242-j6tlmpuvb</odeBlockId>
+          <odeIdeviceId>idevice-1779393983241-vj3l479ms</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>
+<p>No participes en: ciberacoso, grooming, sexting, difusión de imágenes sin permiso.</p>
+<p></p>
+</li>
+<li>
+<p>Si algo te incomoda: habla con tu familia o profesorado.</p>
+</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779393983241-vj3l479ms","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>\n<p>No participes en: ciberacoso, grooming, sexting, difusión de imágenes sin permiso.</p>\n<p></p>\n</li>\n<li>\n<p>Si algo te incomoda: habla con tu familia o profesorado.</p>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779395406198-puqptktl5</odePageId>
+      <odeBlockId>block-1779394046308-a0imecxdk</odeBlockId>
+      <blockName>Usa Internet de forma responsable</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395406198-puqptktl5</odePageId>
+          <odeBlockId>block-1779394046308-a0imecxdk</odeBlockId>
+          <odeIdeviceId>idevice-1779394046307-fo1i4hypr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La tecnología puede ayudarnos a: aprender, investigar, trabajar en equipo, crear contenidos digitales. Pero debemos hacerlo: de forma segura, crítica y responsable.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779394046307-fo1i4hypr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La tecnología puede ayudarnos a: aprender, investigar, trabajar en equipo, crear contenidos digitales. Pero debemos hacerlo: de forma segura, crítica y responsable.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779395406198-puqptktl5</odePageId>
+      <odeBlockId>block-1779402902497-2rp7pq16z</odeBlockId>
+      <blockName>Poster</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395406198-puqptktl5</odePageId>
+          <odeBlockId>block-1779402902497-2rp7pq16z</odeBlockId>
+          <odeIdeviceId>idevice-1779402902496-i6aooz7sp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Os dejo un poster para que veáis las normas de uso de las herramientas digitales que vamos a utilizar: <a href="https://drive.google.com/file/d/1wzfYLEROTvOceBw7piVBa7jWmx8zjPy8/view?usp=sharing">https://drive.google.com/file/d/1wzfYLEROTvOceBw7piVBa7jWmx8zjPy8/view?usp=sharing</a>.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779402902496-i6aooz7sp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os dejo un poster para que veáis las normas de uso de las herramientas digitales que vamos a utilizar: <a href=\"https://drive.google.com/file/d/1wzfYLEROTvOceBw7piVBa7jWmx8zjPy8/view?usp=sharing\">https://drive.google.com/file/d/1wzfYLEROTvOceBw7piVBa7jWmx8zjPy8/view?usp=sharing</a>.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779396161848-g7orf8v9b</odePageId>
+  <odeParentPageId>page-1779395373214-7xqdcq5o2</odeParentPageId>
+  <pageName>¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779396161848-g7orf8v9b</odePageId>
+      <odeBlockId>block-1779396376571-65klpnam5</odeBlockId>
+      <blockName>¡APRENDEMOS JUNTOS!</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779396161848-g7orf8v9b</odePageId>
+          <odeBlockId>block-1779396376571-65klpnam5</odeBlockId>
+          <odeIdeviceId>idevice-1779396376570-dv75vlmnl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Buscar y comprender información sobre el medio ambiente.<br /></li>
+<li>Mejorar la expresión escrita y oral mediante exposiciones y trabajos.<br /></li>
+<li>Aprender a resumir y organizar información importante.<br /></li>
+<li>Conocer hábitos sostenibles, reciclaje y cuidado del entorno.<br /></li>
+<li>Investigar problemas medioambientales y sus posibles soluciones.<br /></li>
+<li>Trabajar la creatividad y el trabajo en equipo usando herramientas digitales.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779396376570-dv75vlmnl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Buscar y comprender información sobre el medio ambiente.<br /></li>\n<li>Mejorar la expresión escrita y oral mediante exposiciones y trabajos.<br /></li>\n<li>Aprender a resumir y organizar información importante.<br /></li>\n<li>Conocer hábitos sostenibles, reciclaje y cuidado del entorno.<br /></li>\n<li>Investigar problemas medioambientales y sus posibles soluciones.<br /></li>\n<li>Trabajar la creatividad y el trabajo en equipo usando herramientas digitales.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779395596236-7fayf76qm</odePageId>
+  <odeParentPageId>page-1779395373214-7xqdcq5o2</odeParentPageId>
+  <pageName>Tareas paso a paso</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas paso a paso</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779395596236-7fayf76qm</odePageId>
+      <odeBlockId>block-1779394902633-1iser7cj2</odeBlockId>
+      <blockName>¿Qué vamos hacer cada día?</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395596236-7fayf76qm</odePageId>
+          <odeBlockId>block-1779394902633-1iser7cj2</odeBlockId>
+          <odeIdeviceId>idevice-1779394902632-cbotle86p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Os dejo un enlace para que podáis ver nuestra línea temporal: <a href="https://drive.google.com/file/d/1FMME0HTlcLqrU1q5jCX1PZ0_gKWzxXw4/view?usp=sharing">https://drive.google.com/file/d/1FMME0HTlcLqrU1q5jCX1PZ0_gKWzxXw4/view?usp=sharing</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779394902632-cbotle86p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os dejo un enlace para que podáis ver nuestra línea temporal: <a href=\"https://drive.google.com/file/d/1FMME0HTlcLqrU1q5jCX1PZ0_gKWzxXw4/view?usp=sharing\">https://drive.google.com/file/d/1FMME0HTlcLqrU1q5jCX1PZ0_gKWzxXw4/view?usp=sharing</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779395596236-7fayf76qm</odePageId>
+      <odeBlockId>block-1779398526838-en7awi083</odeBlockId>
+      <blockName>Sesión 1 - Introducción</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395596236-7fayf76qm</odePageId>
+          <odeBlockId>block-1779398526838-en7awi083</odeBlockId>
+          <odeIdeviceId>idevice-1779398526837-zaks3gnp9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Presentación del proyecto y del producto final.</li>
+<li>Explicación del tema: educación medioambiental.</li>
+<li>Formación de grupos cooperativos.</li>
+<li>Reparto inicial de roles dentro del equipo.</li>
+<li>Lluvia de ideas sobre hábitos sostenibles.</li>
+<li>Resolución de dudas sobre el trabajo.<br /> </li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779398526837-zaks3gnp9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Presentación del proyecto y del producto final.</li>\n<li>Explicación del tema: educación medioambiental.</li>\n<li>Formación de grupos cooperativos.</li>\n<li>Reparto inicial de roles dentro del equipo.</li>\n<li>Lluvia de ideas sobre hábitos sostenibles.</li>\n<li>Resolución de dudas sobre el trabajo.<br /> </li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779395596236-7fayf76qm</odePageId>
+      <odeBlockId>block-1779395734741-m56dvzekz</odeBlockId>
+      <blockName>Sesión 2 - Búsqueda de información</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395596236-7fayf76qm</odePageId>
+          <odeBlockId>block-1779395734741-m56dvzekz</odeBlockId>
+          <odeIdeviceId>idevice-1779395734740-ziyypq851</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Elaboración de un mural de ideas principales.</li>
+<li>Debate sobre la importancia de cuidar el entorno.</li>
+<li>Explicación de qué es una fuente fiable.</li>
+<li>Búsqueda de información en libros y páginas web seguras.</li>
+<li>Recogida de datos importantes y vocabulario clave.<br /><br /></li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779395734740-ziyypq851","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Elaboración de un mural de ideas principales.</li>\n<li>Debate sobre la importancia de cuidar el entorno.</li>\n<li>Explicación de qué es una fuente fiable.</li>\n<li>Búsqueda de información en libros y páginas web seguras.</li>\n<li>Recogida de datos importantes y vocabulario clave.<br /><br /></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779395596236-7fayf76qm</odePageId>
+      <odeBlockId>block-1779395810393-wb8m0r0hv</odeBlockId>
+      <blockName>Sesión 3 - Organización</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395596236-7fayf76qm</odePageId>
+          <odeBlockId>block-1779395810393-wb8m0r0hv</odeBlockId>
+          <odeIdeviceId>idevice-1779395810392-w93kv5bwy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Clasificación de la información encontrada.</li>
+<li>Diferenciación entre ideas principales y secundarias.</li>
+<li>Organización de contenidos en apartados.</li>
+<li>Elaboración de un borrador del póster.</li>
+<li>Selección de imágenes o gráficos relacionados.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779395810392-w93kv5bwy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Clasificación de la información encontrada.</li>\n<li>Diferenciación entre ideas principales y secundarias.</li>\n<li>Organización de contenidos en apartados.</li>\n<li>Elaboración de un borrador del póster.</li>\n<li>Selección de imágenes o gráficos relacionados.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779395596236-7fayf76qm</odePageId>
+      <odeBlockId>block-1779395852927-q59s5r9bj</odeBlockId>
+      <blockName>Sesiones 4 / 5 - Redacción</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395596236-7fayf76qm</odePageId>
+          <odeBlockId>block-1779395852927-q59s5r9bj</odeBlockId>
+          <odeIdeviceId>idevice-1779395852926-wjzk1envb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Escritura de títulos y subtítulos atractivos.</li>
+<li>Redacción de textos informativos breves y claros.</li>
+<li>Creación de eslóganes de concienciación ambiental.<br /></li>
+<li>Elaboración de conclusiones y mensajes finales.</li>
+<li>Lectura conjunta para comprobar la comprensión.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779395852926-wjzk1envb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Escritura de títulos y subtítulos atractivos.</li>\n<li>Redacción de textos informativos breves y claros.</li>\n<li>Creación de eslóganes de concienciación ambiental.<br /></li>\n<li>Elaboración de conclusiones y mensajes finales.</li>\n<li>Lectura conjunta para comprobar la comprensión.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779395596236-7fayf76qm</odePageId>
+      <odeBlockId>block-1779395877412-jvqlgm9wb</odeBlockId>
+      <blockName>Sesión 6 - Correciones ortográficas</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395596236-7fayf76qm</odePageId>
+          <odeBlockId>block-1779395877412-jvqlgm9wb</odeBlockId>
+          <odeIdeviceId>idevice-1779395877411-hmslkdc8h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Revisión de faltas de ortografía.</li>
+<li>Corrección de signos de puntuación y acentuación.</li>
+<li>Mejora de la coherencia y cohesión textual.</li>
+<li>Sustitución de palabras repetidas por sinónimos.</li>
+<li>Revisión cooperativa entre grupos.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779395877411-hmslkdc8h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Revisión de faltas de ortografía.</li>\n<li>Corrección de signos de puntuación y acentuación.</li>\n<li>Mejora de la coherencia y cohesión textual.</li>\n<li>Sustitución de palabras repetidas por sinónimos.</li>\n<li>Revisión cooperativa entre grupos.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779395596236-7fayf76qm</odePageId>
+      <odeBlockId>block-1779395890162-uv3jug0w2</odeBlockId>
+      <blockName>Sesiones 7 - 8</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395596236-7fayf76qm</odePageId>
+          <odeBlockId>block-1779395890162-uv3jug0w2</odeBlockId>
+          <odeIdeviceId>idevice-1779395890161-tcq2krwe8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Reparto de las partes de la exposición oral.</li>
+<li>Ensayo de la presentación en grupo.</li>
+<li>Trabajo de la expresión oral y la entonación.</li>
+<li>Práctica del contacto visual y postura corporal.</li>
+<li>Control del tiempo de exposición.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779395890161-tcq2krwe8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Reparto de las partes de la exposición oral.</li>\n<li>Ensayo de la presentación en grupo.</li>\n<li>Trabajo de la expresión oral y la entonación.</li>\n<li>Práctica del contacto visual y postura corporal.</li>\n<li>Control del tiempo de exposición.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779395596236-7fayf76qm</odePageId>
+      <odeBlockId>block-1779395917112-g29cnc33c</odeBlockId>
+      <blockName>Sesión 9 - Exposición oral</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>7</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395596236-7fayf76qm</odePageId>
+          <odeBlockId>block-1779395917112-g29cnc33c</odeBlockId>
+          <odeIdeviceId>idevice-1779395917112-bm3d67imq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Presentación oral del póster al grupo-clase.</li>
+<li>Explicación de las ideas principales investigadas.</li>
+<li>Escucha activa de las exposiciones de los compañeros.</li>
+<li>Ronda de preguntas y comentarios finales.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779395917112-bm3d67imq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Presentación oral del póster al grupo-clase.</li>\n<li>Explicación de las ideas principales investigadas.</li>\n<li>Escucha activa de las exposiciones de los compañeros.</li>\n<li>Ronda de preguntas y comentarios finales.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779395596236-7fayf76qm</odePageId>
+      <odeBlockId>block-1779395940813-btl4tc18k</odeBlockId>
+      <blockName>Sesión 10 - Reflexión final</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>8</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779395596236-7fayf76qm</odePageId>
+          <odeBlockId>block-1779395940813-btl4tc18k</odeBlockId>
+          <odeIdeviceId>idevice-1779395940813-qws0iajcu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Valoración del trabajo individual y grupal.</li>
+<li>Reflexión sobre los aprendizajes adquiridos.</li>
+<li>Identificación de dificultades encontradas.</li>
+<li>Comentario sobre el funcionamiento del grupo cooperativo.</li>
+<li>Propuesta de mejoras para futuros trabajos.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779395940813-qws0iajcu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Valoración del trabajo individual y grupal.</li>\n<li>Reflexión sobre los aprendizajes adquiridos.</li>\n<li>Identificación de dificultades encontradas.</li>\n<li>Comentario sobre el funcionamiento del grupo cooperativo.</li>\n<li>Propuesta de mejoras para futuros trabajos.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779396185780-ago49chg0</odePageId>
+  <odeParentPageId>page-1779395373214-7xqdcq5o2</odeParentPageId>
+  <pageName>Nuestro producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779396185780-ago49chg0</odePageId>
+      <odeBlockId>block-1779397976548-jxy35e9z8</odeBlockId>
+      <blockName>Nos convertimos en: ¡¡defensores del medio ambiente!!</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779396185780-ago49chg0</odePageId>
+          <odeBlockId>block-1779397976548-jxy35e9z8</odeBlockId>
+          <odeIdeviceId>idevice-1779397976547-dzawa9fgw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779397976547-dzawa9fgw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779396185780-ago49chg0</odePageId>
+      <odeBlockId>block-1779396199482-k3ee4ifdx</odeBlockId>
+      <blockName>¿Qué herramientas vamos a utilizar?</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779396185780-ago49chg0</odePageId>
+          <odeBlockId>block-1779396199482-k3ee4ifdx</odeBlockId>
+          <odeIdeviceId>idevice-1779396199481-ephstixnr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se usará  principalmente:</p>
+<p>- (Producto final) <strong>Google Docs </strong>el alumnado podrá trabajar en grupo al mismo tiempo, escribir ideas, investigar y organizar la información de forma sencilla (esta herramienta me permite ir viendo en tiempo real cómo van desarrollando sus ideas y le van dando forma al proyecto).</p>
+<p>- (Producto final) <strong>Canva</strong>, crearán carteles, infografías o presentaciones para enseñar lo que han aprendido sobre el cuidado del medio ambiente (esta herramienta me permite ver cómo el alumnado sintetiza la información, la esquematiza y organiza de forma que llame la atención al público).</p>
+<p>- <strong>Padlet</strong> con el objetivo de que sea una guía y base para que el alumnado comience a realizar el proyecto. Para ello he creado un muro con una miniactividad. En ella, cada estudiante tiene que pensar en cómo reciclar un objetivo de su día a día y compartirlo con una foto o dibujo en el muro. Por otro lado, en este tablero también añadiré, conforme vayan avanzando en el proyecto, ideas, páginas web fiables, tutoriales de Canva y Google Docs y ejemplos de campañas medioambientales. Mediante este tablero me gestiono las clases y puedo ir viendo qué materiales me quedan por explicar o ver en cada sesión, y ellos los tienen siempre a mano para poder ir consultándolos.<br /></p>
+<p>-  <strong>Symbaloo</strong>, es una aplicación que permite organizar la pantalla del ordenador. Esta pantalla la podemos diseñar como más os guste. Desde mi punto de vista, si tenemos pizarra digital, la poder organizar de forma que el alumnado tenga las herramientas más disponibles y pueda hacer uso de ellas siempre que lo necesite. Por otro lado, para gestionar y organizar la dinámica el aula como docente es una herramienta muy útil ya que tenemos todas las aplicaciones necesarias mucho más rápida. <br /></p>
+<p>He elegido estas herramientas porque son fáciles de usar e intuitivas en 6.º de Primaria, funcionan bien para trabajar en equipo y con los <strong>Chromebooks</strong> pueden usarlas sin problema, se guarda automáticamente el trabajo y van a servirles para un futuro. Además, ayudan a que el alumnado sea más creativo y mejore su competencia digital mientras aprende.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779396199481-ephstixnr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se usará  principalmente:</p>\n<p>- (Producto final) <strong>Google Docs </strong>el alumnado podrá trabajar en grupo al mismo tiempo, escribir ideas, investigar y organizar la información de forma sencilla (esta herramienta me permite ir viendo en tiempo real cómo van desarrollando sus ideas y le van dando forma al proyecto).</p>\n<p>- (Producto final) <strong>Canva</strong>, crearán carteles, infografías o presentaciones para enseñar lo que han aprendido sobre el cuidado del medio ambiente (esta herramienta me permite ver cómo el alumnado sintetiza la información, la esquematiza y organiza de forma que llame la atención al público).</p>\n<p>- <strong>Padlet</strong> con el objetivo de que sea una guía y base para que el alumnado comience a realizar el proyecto. Para ello he creado un muro con una miniactividad. En ella, cada estudiante tiene que pensar en cómo reciclar un objetivo de su día a día y compartirlo con una foto o dibujo en el muro. Por otro lado, en este tablero también añadiré, conforme vayan avanzando en el proyecto, ideas, páginas web fiables, tutoriales de Canva y Google Docs y ejemplos de campañas medioambientales. Mediante este tablero me gestiono las clases y puedo ir viendo qué materiales me quedan por explicar o ver en cada sesión, y ellos los tienen siempre a mano para poder ir consultándolos.<br /></p>\n<p>-  <strong>Symbaloo</strong>, es una aplicación que permite organizar la pantalla del ordenador. Esta pantalla la podemos diseñar como más os guste. Desde mi punto de vista, si tenemos pizarra digital, la poder organizar de forma que el alumnado tenga las herramientas más disponibles y pueda hacer uso de ellas siempre que lo necesite. Por otro lado, para gestionar y organizar la dinámica el aula como docente es una herramienta muy útil ya que tenemos todas las aplicaciones necesarias mucho más rápida. <br /></p>\n<p>He elegido estas herramientas porque son fáciles de usar e intuitivas en 6.º de Primaria, funcionan bien para trabajar en equipo y con los <strong>Chromebooks</strong> pueden usarlas sin problema, se guarda automáticamente el trabajo y van a servirles para un futuro. Además, ayudan a que el alumnado sea más creativo y mejore su competencia digital mientras aprende.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779396185780-ago49chg0</odePageId>
+      <odeBlockId>block-1779400969340-xjlfe4zl7</odeBlockId>
+      <blockName>Bloque 1: Inicio y búsqueda de información</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779396185780-ago49chg0</odePageId>
+          <odeBlockId>block-1779400969340-xjlfe4zl7</odeBlockId>
+          <odeIdeviceId>idevice-1779400969338-it8hocx3r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: circle;">
+<li>Symbaloo para acceder a enlaces fiables. (<a href="https://www.symbaloo.com/mix/edu-ftbh">https://www.symbaloo.com/mix/edu-ftbh</a>)<br /></li>
+<li>Padlet para lluvia de ideas y aportaciones del grupo (<a href="https://padlet.com/pmardia2703/ideas-creativas-para-reciclar-arplwhuv6kagq90r">https://padlet.com/pmardia2703/ideas-creativas-para-reciclar-arplwhuv6kagq90r</a>)<br /></li>
+<li>Pizarra digital.</li>
+<li>Libros de texto y material de aula.</li>
+<li>Navegadores web y páginas educativas seguras.</li>
+<li>Cuaderno del alumnado para anotaciones.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779400969338-it8hocx3r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: circle;\">\n<li>Symbaloo para acceder a enlaces fiables. (<a href=\"https://www.symbaloo.com/mix/edu-ftbh\">https://www.symbaloo.com/mix/edu-ftbh</a>)<br /></li>\n<li>Padlet para lluvia de ideas y aportaciones del grupo (<a href=\"https://padlet.com/pmardia2703/ideas-creativas-para-reciclar-arplwhuv6kagq90r\">https://padlet.com/pmardia2703/ideas-creativas-para-reciclar-arplwhuv6kagq90r</a>)<br /></li>\n<li>Pizarra digital.</li>\n<li>Libros de texto y material de aula.</li>\n<li>Navegadores web y páginas educativas seguras.</li>\n<li>Cuaderno del alumnado para anotaciones.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779396185780-ago49chg0</odePageId>
+      <odeBlockId>block-1779401081071-7rwl2zvyi</odeBlockId>
+      <blockName>Bloque 2: Organización y elaboración de contenidos</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779396185780-ago49chg0</odePageId>
+          <odeBlockId>block-1779401081071-7rwl2zvyi</odeBlockId>
+          <odeIdeviceId>idevice-1779401081071-0ibh6t2oj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: circle;">
+<li>Google Docs para redactar y editar en grupo.</li>
+<li>Diccionarios digitales y correctores ortográficos.</li>
+<li>Esquemas y organizadores gráficos.</li>
+<li>Material de aula (fichas de revisión, cuaderno).<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779401081071-0ibh6t2oj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: circle;\">\n<li>Google Docs para redactar y editar en grupo.</li>\n<li>Diccionarios digitales y correctores ortográficos.</li>\n<li>Esquemas y organizadores gráficos.</li>\n<li>Material de aula (fichas de revisión, cuaderno).<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779396185780-ago49chg0</odePageId>
+      <odeBlockId>block-1779401151606-u56alxa3n</odeBlockId>
+      <blockName>Bloque 3: Diseño y exposición del producto final</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779396185780-ago49chg0</odePageId>
+          <odeBlockId>block-1779401151606-u56alxa3n</odeBlockId>
+          <odeIdeviceId>idevice-1779401151606-kgisqv9zd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: circle;">
+<li>Canva para crear la infografía.</li>
+<li>Imágenes, iconos y recursos visuales digitales.</li>
+<li>Rúbrica de exposición oral.</li>
+<li>Pizarra digital para presentaciones.</li>
+<li>Material de apoyo para la exposición (guion, tarjetas).</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779401151606-kgisqv9zd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: circle;\">\n<li>Canva para crear la infografía.</li>\n<li>Imágenes, iconos y recursos visuales digitales.</li>\n<li>Rúbrica de exposición oral.</li>\n<li>Pizarra digital para presentaciones.</li>\n<li>Material de apoyo para la exposición (guion, tarjetas).</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779396185780-ago49chg0</odePageId>
+      <odeBlockId>block-1779401288460-xhqeg57qv</odeBlockId>
+      <blockName>Bloque 4: Reflexión y evaluación final</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779396185780-ago49chg0</odePageId>
+          <odeBlockId>block-1779401288460-xhqeg57qv</odeBlockId>
+          <odeIdeviceId>idevice-1779401288459-rg83mzn6e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: circle;">
+<li>Padlet para la reflexión final compartida. </li>
+<li>Rúbricas de autoevaluación y coevaluación.</li>
+<li>Pizarra digital para puesta en común.</li>
+<li>Cuestionarios de valoración del proyecto.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779401288459-rg83mzn6e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: circle;\">\n<li>Padlet para la reflexión final compartida. </li>\n<li>Rúbricas de autoevaluación y coevaluación.</li>\n<li>Pizarra digital para puesta en común.</li>\n<li>Cuestionarios de valoración del proyecto.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779396220315-755az2zef</odePageId>
+  <odeParentPageId>page-1779395373214-7xqdcq5o2</odeParentPageId>
+  <pageName>Evaluamos nuestro trabajo</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluamos nuestro trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Evaluamos nuestro trabajo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779396220315-755az2zef</odePageId>
+      <odeBlockId>block-1779396593031-1l2zxafkt</odeBlockId>
+      <blockName>¿Cómo nos va a evaluar la seño?</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779396220315-755az2zef</odePageId>
+          <odeBlockId>block-1779396593031-1l2zxafkt</odeBlockId>
+          <odeIdeviceId>idevice-1779396593030-iu23j9d81</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La seño utilizará:</p>
+<p>- Una tabla para observar cómo trabajamos en equipo.</p>
+<p>- Una rúbrica para valorar nuestro póster y la información que hemos recogido. </p>
+<p>- Un checklist para comprobar si hemos participado en equipo y nuestras interacciones.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779396593030-iu23j9d81","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La seño utilizará:</p>\n<p>- Una tabla para observar cómo trabajamos en equipo.</p>\n<p>- Una rúbrica para valorar nuestro póster y la información que hemos recogido. </p>\n<p>- Un checklist para comprobar si hemos participado en equipo y nuestras interacciones.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779396220315-755az2zef</odePageId>
+      <odeBlockId>block-1779396766521-gcn9aqv5o</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779396220315-755az2zef</odePageId>
+          <odeBlockId>block-1779396766521-gcn9aqv5o</odeBlockId>
+          <odeIdeviceId>idevice-1779396766521-14ao69j5a</odeIdeviceId>
+          <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p>La checklist se usa durante el trabajo en grupo. Sirve para comprobar si el alumnado participa, respeta turnos, coopera o cumple su rol. De esta forma se verifica si están trabajando y se puede corregir o reconducir si hace falta.</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AB%A1%AB%A4%A5%A4%A4%A7%A0%A3%BF%A3%A6%F3%FD%A4%AB%F8%A7%F3%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%DE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%B2%BA%A7%BC%A3%BC%F0%BC%B2%BF%B2%FB%FC%E6%F7%E0%F3%F1%F1%FB%FD%FC%F7%E1%B2%EB%B2%E6%E0%F3%F0%F3%F8%FD%B2%F7%FC%B2%F7%E3%E7%FB%E2%FD%BB%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A7%BC%A5%A3%A6%A1%E2%EA%A9%CE%B0%AC%C2%F3%E0%E6%FB%F1%FB%E2%F3%B2%F3%F1%E6%FB%E4%F3%FF%F7%FC%E6%F7%B2%F7%FC%B2%F7%FE%B2%E6%E0%F3%F0%F3%F8%FD%B2%F6%F7%FE%B2%F5%E0%E7%E2%FD%BC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A5%A0%A1%A4%A5%A3%AB%F1%BF%A5%F4%F4%F4%BF%A6%F6%A1%A2%BF%AA%F3%A7%F1%BF%A0%F1%F6%A5%AB%F0%A0%A0%A6%F7%A3%AB%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A0%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%BE%B2%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%B2%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%AC%C0%F7%E1%E2%F7%E6%FD%B2%F7%FE%B2%E6%E7%E0%FC%FD%B2%F6%F7%B2%E2%F3%FE%F3%F0%E0%F3%B2%F6%F7%B2%FF%FB%E1%B2%F1%FD%FF%E2%F3c%F7%E0%FD%E1%BD%F3%E1%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%F1%A7%AA%A3%A2%A3%F0%A6%BF%A5%F4%F4%F4%BF%F0%A6%F4%A1%BF%AA%F0%F7%A2%BF%AA%F6%A4%A0%A1%A2%F0%A7%F1%F3%AB%AA%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A0%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%BE%B2%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%B2%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%AC%D7%E1%F1%E7%F1%FA%FD%B2%F1%FD%FC%B2%F3%E6%F7%FC%F1%FBa%FC%B2%FE%F3%E1%B2%FB%F6%F7%F3%E1%B2%F6%F7%B2%FE%FD%E1%B2%F6%F7%FFs%E1%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A6%A0%A6%F0%F7%A4%A7%F6%BF%A5%F4%F4%F4%BF%F7%A1%A4%F6%BF%A0%A5%F4%A3%BF%A3%AA%AA%A0%A5%A0%F6%F1%A3%F3%F6%A2%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A0%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%BE%B2%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%B2%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%AC%D3%E2%FD%E0%E6%FD%B2%FB%F6%F7%F3%E1%B2h%E6%FB%FE%F7%E1%B2%F3%FE%B2%E6%E0%F3%F0%F3%F8%FD%B2%F1%FD%FFh%FC%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%AB%A0%A3%A4%A4%A1%A7%A2%BF%A5%F4%F4%F4%BF%A2%A1%A3%A5%BF%AA%F0%A2%A3%BF%AA%F4%A7%A6%A3%F6%AB%AA%F6%A3%F6%A7%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A0%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%BE%B2%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%B2%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%AC%D7%EA%E2%E0%F7%E1%FD%B2%FF%FB%E1%B2%FD%E2%FB%FC%FB%FD%FC%F7%E1%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%E0%F7%E1%E2%F7%E6%E7%FD%E1%F3%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%F7%A7%A7%A5%A4%F1%A0%A1%BF%A5%F4%F4%F4%BF%A0%A4%A1%A4%BF%A1%AB%A1%F4%BF%F1%A4%F7%AA%A7%A6%F1%F7%A6%A0%A0%AB%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A0%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%BE%B2%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%B2%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%AC%D1%FD%FE%F3%F0%FD%E0%FD%B2%F1%FD%FC%B2%FF%FB%B2%F7%E3%E7%FB%E2%FD%B2%E2%F3%E0%F3%B2%F3%E4%F3%FC%E8%F3%E0%B2%F7%FC%B2%FE%F3%B2%E6%F3%E0%F7%F3%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A4%A4%F4%F0%A1%AA%A4%AB%BF%A5%F4%F4%F4%BF%A6%A5%A6%F4%BF%A7%F0%AB%F3%BF%F0%A4%A7%A6%A2%F3%F7%A6%F3%A5%A5%F6%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A0%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%BE%B2%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%B2%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%AC%D1%E7%FF%E2%FE%FD%B2%F7%FE%B2%E0%FD%FE%B2%E3%E7%F7%B2%FF%F7%B2%FA%F3%B2%E1%FB%F6%FD%B2%F3%E1%FB%F5%FC%F3%F6%FD%B2%F6%F7%FC%E6%E0%FD%B2%F6%F7%FE%B2%F5%E0%E7%E2%FD%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A2%A6%AA%F1%F4%A7%A3%A3%BF%A5%F4%F4%F4%BF%A4%A4%A0%AB%BF%AB%F4%A0%A7%BF%A3%AB%F4%A1%F4%F4%F6%A7%F4%AB%F4%A7%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A0%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%BE%B2%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%B2%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%AC%D3%EB%E7%F6%FD%B2%F3%B2%E0%F7%E1%FD%FE%E4%F7%E0%B2%F1%FD%FC%F4%FE%FB%F1%E6%FD%E1%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%F6%FB%F3%FE%FD%F5%F3%F6%F3%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%F7%A2%F6%AB%AB%AB%A2%F0%BF%A5%F4%F4%F4%BF%AA%F6%A2%A2%BF%F7%F4%A3%AA%BF%F3%A6%F1%A4%A3%F6%A4%F0%A5%A6%F0%F0%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A0%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%BE%B2%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%B2%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%AC%DF%F3%FC%E6%F7%FC%F5%FD%B2%E7%FC%F3%B2%F3%F1%E6%FB%E6%E7%F6%B2%E2%FD%E1%FB%E6%FB%E4%F3%B2%EB%B2%F6%F7%B2%F1%FD%FD%E2%F7%E0%F3%F1%FBa%FC%B2%F6%E7%E0%F3%FC%E6%F7%B2%F7%FE%B2%E6%E0%F3%F0%F3%F8%FD%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A0%A7%A7%F1%AA%A6%AA%A1%BF%A5%F4%F4%F4%BF%F0%A3%AB%F1%BF%AB%F7%AB%A5%BF%A7%AB%A1%A3%A3%F6%AA%AA%F4%A6%A6%A3%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A0%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%BE%B2%E1%F7%E0%FB%F4%A9%B2%F1%FD%FE%FD%E0%A8%B2%E0%F5%F0%BA%A2%BE%B2%A2%BE%B2%A2%BB%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FD%FE%FD%E0%A8%B2%E6%E0%F3%FC%E1%E2%F3%E0%F7%FC%E6%A9%B2%F4%FD%FC%E6%BF%E4%F3%E0%FB%F3%FC%E6%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%E4%F7%E0%E6%FB%F1%F3%FE%BF%F3%FE%FB%F5%FC%A8%B2%F0%F3%E1%F7%FE%FB%FC%F7%A9%B2%E5%FA%FB%E6%F7%BF%E1%E2%F3%F1%F7%A8%B2%E2%E0%F7%BF%E5%E0%F3%E2%A9%CE%B0%AC%DF%F3%FC%E6%F7%FC%F5%FD%B2%E7%FC%F3%B2%F3%F1%E6%FB%E6%E7%F6%B2%E2%FD%E1%FB%E6%FB%E4%F3%B2%EB%B2%F6%F7%B2%F1%FD%FD%E2%F7%E0%F3%F1%FBa%FC%B2%F6%E7%E0%F3%FC%E6%F7%B2%F7%FE%B2%E6%E0%F3%F0%F3%F8%FD%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779396220315-755az2zef</odePageId>
+      <odeBlockId>block-1779397119857-4nmuddcr5</odeBlockId>
+      <blockName>Rúbrica de evaluación del póster y la información recogida del Google Doc (5.1.b)</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779396220315-755az2zef</odePageId>
+          <odeBlockId>block-1779397119857-4nmuddcr5</odeBlockId>
+          <odeIdeviceId>idevice-1779397119856-edhg7ld2j</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>La <strong>rúbrica</strong> se usa sobre todo para evaluar el producto final. Permite valorar el póster con más detalle: cómo está organizado el texto, si es claro, si está bien escrito y si se entiende bien la información.</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1779397119856-edhg7ld2j%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Estructura%20del%20texto%22%2C%22Informaci%F3n%22%2C%22Coherencia%20y%20cohesi%F3n%22%2C%22Transmisi%F3n%20de%20la%20informaci%F3n%22%2C%22Ortograf%EDa%22%5D%2C%22scores%22%3A%5B%222%20puntos%22%2C%221%2C5%20puntos%22%2C%221%20punto%22%2C%220%2C5%20puntos%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20texto%20est%E1%20muy%20bien%20organizado%20y%20estructurado%20de%20forma%20clara.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22El%20texto%20est%E1%20bien%20organizado%20en%20general%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20texto%20est%E1%20poco%20organizado%20en%20algunas%20partes.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22El%20texto%20est%E1%20desorganizado%20y%20poco%20estructurado.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20completa%2C%20relevante%20y%20se%20ajusta%20perfectamente%20al%20objetivo.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20adecuada%20y%20bastante%20completa.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20b%E1sica%20o%20algo%20incompleta.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20incmpleta%20o%20poco%20adecuada%20al%20objetivo.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Mantiene%20coherencia%20y%20cohes%F3n%20en%20todo%20el%20contenido.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Mantiene%20coherencia%2C%20aunque%20puede%20haber%20peque%F1os%20fallos%20de%20cohesi%F3n.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Presenta%20cierta%20falta%20de%20coherencia%20o%20cohesi%F3n.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Presenta%20falta%20de%20coherecia%20y%20cohesi%F3n%20general.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20mensaje%20se%20entiende%20con%20mucha%20facilidad%20y%20est%E1%20muy%20bien%20cuidado.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22El%20mensaje%20se%20entiende%20con%20claridad.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20mensaje%20se%20entiende%20con%20dificultad%20en%20algunos%20momentos.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22El%20mensaje%20es%20dificil%20de%20entender.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22No%20presenta%20errores%20ortogr%E1ficos%20ni%20gramaticales.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Presenta%20algunos%20errores%20ortogr%E1ficos%20o%20gramaticales.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Hay%20varios%20errores%20ortogr%E1ficos.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Hay%20numerosos%20errores%20ortogr%E1ficos.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Estructura%20del%20texto%22%2C%22Informaci%F3n%22%2C%22Coherencia%20y%20cohesi%F3n%22%2C%22Transmisi%F3n%20de%20la%20informaci%F3n%22%2C%22Ortograf%EDa%22%5D%2C%22scores%22%3A%5B%222%20puntos%22%2C%221%2C5%20puntos%22%2C%221%20punto%22%2C%220%2C5%20puntos%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20texto%20est%E1%20muy%20bien%20organizado%20y%20estructurado%20de%20forma%20clara.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22El%20texto%20est%E1%20bien%20organizado%20en%20general%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20texto%20est%E1%20poco%20organizado%20en%20algunas%20partes.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22El%20texto%20est%E1%20desorganizado%20y%20poco%20estructurado.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20completa%2C%20relevante%20y%20se%20ajusta%20perfectamente%20al%20objetivo.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20adecuada%20y%20bastante%20completa.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20b%E1sica%20o%20algo%20incompleta.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20incmpleta%20o%20poco%20adecuada%20al%20objetivo.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Mantiene%20coherencia%20y%20cohes%F3n%20en%20todo%20el%20contenido.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Mantiene%20coherencia%2C%20aunque%20puede%20haber%20peque%F1os%20fallos%20de%20cohesi%F3n.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Presenta%20cierta%20falta%20de%20coherencia%20o%20cohesi%F3n.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Presenta%20falta%20de%20coherecia%20y%20cohesi%F3n%20general.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20mensaje%20se%20entiende%20con%20mucha%20facilidad%20y%20est%E1%20muy%20bien%20cuidado.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22El%20mensaje%20se%20entiende%20con%20claridad.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20mensaje%20se%20entiende%20con%20dificultad%20en%20algunos%20momentos.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22El%20mensaje%20es%20dificil%20de%20entender.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22No%20presenta%20errores%20ortogr%E1ficos%20ni%20gramaticales.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Presenta%20algunos%20errores%20ortogr%E1ficos%20o%20gramaticales.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Hay%20varios%20errores%20ortogr%E1ficos.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Hay%20numerosos%20errores%20ortogr%E1ficos.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ELa%20%3Cstrong%3Er%FAbrica%3C/strong%3E%20se%20usa%20sobre%20todo%20para%20evaluar%20el%20producto%20final.%20Permite%20valorar%20el%20p%F3ster%20con%20m%E1s%20detalle%3A%20c%F3mo%20est%E1%20organizado%20el%20texto%2C%20si%20es%20claro%2C%20si%20est%E1%20bien%20escrito%20y%20si%20se%20entiende%20bien%20la%20informaci%F3n.%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ELa%20%3Cstrong%3Er%FAbrica%3C/strong%3E%20se%20usa%20sobre%20todo%20para%20evaluar%20el%20producto%20final.%20Permite%20valorar%20el%20p%F3ster%20con%20m%E1s%20detalle%3A%20c%F3mo%20est%E1%20organizado%20el%20texto%2C%20si%20es%20claro%2C%20si%20est%E1%20bien%20escrito%20y%20si%20se%20entiende%20bien%20la%20informaci%F3n.%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779393136700-qsq7dgf74</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779393136700-qsq7dgf74</odePageId>
+      <odeBlockId>block-1779393427836-nohswjvzf</odeBlockId>
+      <blockName>Centro de interés</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779393136700-qsq7dgf74</odePageId>
+          <odeBlockId>block-1779393427836-nohswjvzf</odeBlockId>
+          <odeIdeviceId>idevice-1779393427834-dz9d5y6vj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto está centrado en investigar si la sociedad actual está realmente concienciada en aspectos como reutilizar, reciclar, el excesivo consumo, el cuidado del entorno, etc.<br /></p>
+<p>Para ello, el alumnado usa herramientas digitales educativas y metodologías activas, como páginas web, vídeos, noticias online, infografías y recursos interactivos. Además, realizarán pequeñas investigaciones sobre acciones diarias que contribuyen o no al medio ambiente.<br /></p>
+<p>Se pretende fomentar la motivación del alumnado mientras lo acercamos a una polémica que está en auge en nuestra sociedad. El objetivo es fomentar el pensamiento crítico, la participación activa y la competencia digital del alumnado mientras reflexionan sobre un tema de gran importancia social y ambiental.<br /></p>
+<ul>
+<li>Nivel al que va dirigido: 6º de Educación Primaria.</li>
+<li>Temporalización aproximada: tres semanas.</li>
+<li>Áreas o materias implicadas: Lengua Castellana y Literatura / Ciencias Naturales.</li>
+<li>Idioma: Castellano.</li>
+<li>Descripción general de lo que se pretende que el alumnado aprenda o trabaje:</li>
+</ul>
+<p>A través de este proyecto, el alumnado aprenderá a buscar, seleccionar y contrastar información fiable relacionada con el medio ambiente y hábitos sostenibles. Para ello, el alumnado reflexiona sobre sus propios hábitos diarios y los de la sociedad, desarrollando una actitud crítica y responsable hacia el medio ambiente. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779393427834-dz9d5y6vj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto está centrado en investigar si la sociedad actual está realmente concienciada en aspectos como reutilizar, reciclar, el excesivo consumo, el cuidado del entorno, etc.<br /></p>\n<p>Para ello, el alumnado usa herramientas digitales educativas y metodologías activas, como páginas web, vídeos, noticias online, infografías y recursos interactivos. Además, realizarán pequeñas investigaciones sobre acciones diarias que contribuyen o no al medio ambiente.<br /></p>\n<p>Se pretende fomentar la motivación del alumnado mientras lo acercamos a una polémica que está en auge en nuestra sociedad. El objetivo es fomentar el pensamiento crítico, la participación activa y la competencia digital del alumnado mientras reflexionan sobre un tema de gran importancia social y ambiental.<br /></p>\n<ul>\n<li>Nivel al que va dirigido: 6º de Educación Primaria.</li>\n<li>Temporalización aproximada: tres semanas.</li>\n<li>Áreas o materias implicadas: Lengua Castellana y Literatura / Ciencias Naturales.</li>\n<li>Idioma: Castellano.</li>\n<li>Descripción general de lo que se pretende que el alumnado aprenda o trabaje:</li>\n</ul>\n<p>A través de este proyecto, el alumnado aprenderá a buscar, seleccionar y contrastar información fiable relacionada con el medio ambiente y hábitos sostenibles. Para ello, el alumnado reflexiona sobre sus propios hábitos diarios y los de la sociedad, desarrollando una actitud crítica y responsable hacia el medio ambiente. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779393136700-qsq7dgf74</odePageId>
+      <odeBlockId>block-1779402582232-zlmuynhjm</odeBlockId>
+      <blockName>Metodología</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779393136700-qsq7dgf74</odePageId>
+          <odeBlockId>block-1779402582232-zlmuynhjm</odeBlockId>
+          <odeIdeviceId>idevice-1779402582232-u7rtwmzm8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>El alumnado aprende a través de situaciones cercanas a su vida cotidiana, fomentando la motivación y el interés por el cuidado del medioambiente.</li>
+<li>Se promueve el trabajo cooperativo, donde cada estudiante tiene asignado un rol.</li>
+<li>El aprendizaje se construye a partir de la experiencia, la investigación y la reflexión personal sobre problemas reales del entorno.<br /></li>
+<li>El alumnado es protagonista de su propio aprendizaje, pensamiento crítico y responsabilidad social.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779402582232-u7rtwmzm8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>El alumnado aprende a través de situaciones cercanas a su vida cotidiana, fomentando la motivación y el interés por el cuidado del medioambiente.</li>\n<li>Se promueve el trabajo cooperativo, donde cada estudiante tiene asignado un rol.</li>\n<li>El aprendizaje se construye a partir de la experiencia, la investigación y la reflexión personal sobre problemas reales del entorno.<br /></li>\n<li>El alumnado es protagonista de su propio aprendizaje, pensamiento crítico y responsabilidad social.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779393136700-qsq7dgf74</odePageId>
+      <odeBlockId>block-1779400727378-ik0z46s0m</odeBlockId>
+      <blockName>Criterios de evaluación y temporalización</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779393136700-qsq7dgf74</odePageId>
+          <odeBlockId>block-1779400727378-ik0z46s0m</odeBlockId>
+          <odeIdeviceId>idevice-1779400727377-tgee0paug</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace se puede observar los criterios de evaluación relacionados con las sesiones: <a href="https://drive.google.com/drive/u/0/folders/1rtIaLNe95TJ1sM4LIMEE4YxokPzyA28T">https://drive.google.com/drive/u/0/folders/1rtIaLNe95TJ1sM4LIMEE4YxokPzyA28T</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779400727377-tgee0paug","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace se puede observar los criterios de evaluación relacionados con las sesiones: <a href=\"https://drive.google.com/drive/u/0/folders/1rtIaLNe95TJ1sM4LIMEE4YxokPzyA28T\">https://drive.google.com/drive/u/0/folders/1rtIaLNe95TJ1sM4LIMEE4YxokPzyA28T</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779393136700-qsq7dgf74</odePageId>
+      <odeBlockId>block-1779394236303-0unygoagz</odeBlockId>
+      <blockName>Justificación del proyecto</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779393136700-qsq7dgf74</odePageId>
+          <odeBlockId>block-1779394236303-0unygoagz</odeBlockId>
+          <odeIdeviceId>idevice-1779394236302-a0vqog2it</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La elección de este proyecto parte de las conclusiones obtenidas en la rutina de pensamiento realizada anteriormente. En ella se observó que el uso de tecnologías digitales y metodologías activas aumenta la motivación y participación del alumnado, favoreciendo un aprendizaje más significativo y autónomo.</p>
+<p><br />También se detectó la necesidad de seguir trabajando la competencia digital, especialmente en aspectos relacionados con la búsqueda de información verídica, la organización del trabajo cooperativo y el uso responsable de herramientas digitales. Por ello, en este proyecto se les va a ir dando pautas de los pasos que deben ir siguiendo y recomendaciones de las páginas web en las que pueden buscar información.</p>
+<p>Por este motivo, se ha diseñado una situación de aprendizaje basada en la investigación, el trabajo en equipo y la creación de contenidos digitales (sencillos) relacionados con una problemática cercana y actual como es el medio ambiente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779394236302-a0vqog2it","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La elección de este proyecto parte de las conclusiones obtenidas en la rutina de pensamiento realizada anteriormente. En ella se observó que el uso de tecnologías digitales y metodologías activas aumenta la motivación y participación del alumnado, favoreciendo un aprendizaje más significativo y autónomo.</p>\n<p><br />También se detectó la necesidad de seguir trabajando la competencia digital, especialmente en aspectos relacionados con la búsqueda de información verídica, la organización del trabajo cooperativo y el uso responsable de herramientas digitales. Por ello, en este proyecto se les va a ir dando pautas de los pasos que deben ir siguiendo y recomendaciones de las páginas web en las que pueden buscar información.</p>\n<p>Por este motivo, se ha diseñado una situación de aprendizaje basada en la investigación, el trabajo en equipo y la creación de contenidos digitales (sencillos) relacionados con una problemática cercana y actual como es el medio ambiente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779393136700-qsq7dgf74</odePageId>
+      <odeBlockId>block-1779400485917-8sak9vxtn</odeBlockId>
+      <blockName>Producto Final</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779393136700-qsq7dgf74</odePageId>
+          <odeBlockId>block-1779400485917-8sak9vxtn</odeBlockId>
+          <odeIdeviceId>idevice-1779400485916-0luvuj9tj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El <strong>producto final</strong> consistirá en la elaboración de una campaña de concienciación medioambiental en formato digital, donde cada grupo presentará propuestas para mejorar los hábitos sostenibles dentro y fuera del centro educativo mediante un póster a través de Canva.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779400485916-0luvuj9tj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El <strong>producto final</strong> consistirá en la elaboración de una campaña de concienciación medioambiental en formato digital, donde cada grupo presentará propuestas para mejorar los hábitos sostenibles dentro y fuera del centro educativo mediante un póster a través de Canva.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779402066220-u68x8co7f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atención a la diversidad</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779402066220-u68x8co7f</odePageId>
+      <odeBlockId>block-1779403432167-cd2dkn0nu</odeBlockId>
+      <blockName>MEDIDAS GENERALES</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779402066220-u68x8co7f</odePageId>
+          <odeBlockId>block-1779403432167-cd2dkn0nu</odeBlockId>
+          <odeIdeviceId>idevice-1779403432166-rxxsdyasv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: square;">
+<li>Metodologías activas</li>
+<li>Flexibilidad en las tareas</li>
+<li>Agrupamientos flexibles</li>
+<li>Apoyos y andamiajes</li>
+<li>Tiempo flexible</li>
+<li>Refuerzo positivo</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779403432166-rxxsdyasv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: square;\">\n<li>Metodologías activas</li>\n<li>Flexibilidad en las tareas</li>\n<li>Agrupamientos flexibles</li>\n<li>Apoyos y andamiajes</li>\n<li>Tiempo flexible</li>\n<li>Refuerzo positivo</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779402066220-u68x8co7f</odePageId>
+      <odeBlockId>block-1779403292478-62w17i0h2</odeBlockId>
+      <blockName>REPRESENTACIÓN</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779402066220-u68x8co7f</odePageId>
+          <odeBlockId>block-1779403292478-62w17i0h2</odeBlockId>
+          <odeIdeviceId>idevice-1779403292477-tslaalxy5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: square;">
+<li>Explicaciones orales apoyadas con imágenes, vídeos y esquemas.</li>
+<li>Uso de organizadores visuales para facilitar la comprensión.</li>
+<li>Materiales adaptados a distintos ritmos de aprendizaje.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779403292477-tslaalxy5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: square;\">\n<li>Explicaciones orales apoyadas con imágenes, vídeos y esquemas.</li>\n<li>Uso de organizadores visuales para facilitar la comprensión.</li>\n<li>Materiales adaptados a distintos ritmos de aprendizaje.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779402066220-u68x8co7f</odePageId>
+      <odeBlockId>block-1779403334964-lu10xmval</odeBlockId>
+      <blockName>ACCIÓN Y EXPRESIÓN</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779402066220-u68x8co7f</odePageId>
+          <odeBlockId>block-1779403334964-lu10xmval</odeBlockId>
+          <odeIdeviceId>idevice-1779403334964-fjfxgfscn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: square;">
+<li>Diferentes formas de presentar el trabajo (póster, infografía, exposición).</li>
+<li>Apoyos como guiones, plantillas y ejemplos.</li>
+<li>Roles cooperativos adaptados a las capacidades del alumnado.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779403334964-fjfxgfscn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: square;\">\n<li>Diferentes formas de presentar el trabajo (póster, infografía, exposición).</li>\n<li>Apoyos como guiones, plantillas y ejemplos.</li>\n<li>Roles cooperativos adaptados a las capacidades del alumnado.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779402066220-u68x8co7f</odePageId>
+      <odeBlockId>block-1779403377332-q03moh255</odeBlockId>
+      <blockName>MOTIVACIÓN Y PARTICIPACIÓN</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779402066220-u68x8co7f</odePageId>
+          <odeBlockId>block-1779403377332-q03moh255</odeBlockId>
+          <odeIdeviceId>idevice-1779403377332-76u4l4pjq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: square;">
+<li>Contextos cercanos al alumnado para aumentar la motivación.</li>
+<li>Trabajo en equipo para favorecer la participación.</li>
+<li>Actividades con distintos niveles de dificultad.<br /> <br /> <br /> </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779403377332-76u4l4pjq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: square;\">\n<li>Contextos cercanos al alumnado para aumentar la motivación.</li>\n<li>Trabajo en equipo para favorecer la participación.</li>\n<li>Actividades con distintos niveles de dificultad.<br /> <br /> <br /> </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779402052619-mxq92oxg8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779402052619-mxq92oxg8</odePageId>
+      <odeBlockId>block-1779402071388-yw4mbxrr5</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779402052619-mxq92oxg8</odePageId>
+          <odeBlockId>block-1779402071388-yw4mbxrr5</odeBlockId>
+          <odeIdeviceId>idevice-1779402071387-0kvla8cqg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autora: Paula María Martín díaz</p>
+<p>Año: 2026</p>
+<p>Nivel educativo: 6º Educación Primaria</p>
+<p>Área: Lengua Castellana y Literatura / Ciencias Naturales</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779402071387-0kvla8cqg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Paula María Martín díaz</p>\n<p>Año: 2026</p>\n<p>Nivel educativo: 6º Educación Primaria</p>\n<p>Área: Lengua Castellana y Literatura / Ciencias Naturales</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779402052619-mxq92oxg8</odePageId>
+      <odeBlockId>block-1779402126540-qmwyt4yle</odeBlockId>
+      <blockName>Descripción del recurso</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779402052619-mxq92oxg8</odePageId>
+          <odeBlockId>block-1779402126540-qmwyt4yle</odeBlockId>
+          <odeIdeviceId>idevice-1779402126540-rbbx0kppz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Es una situación de Aprendizaje centrada en la búsqueda, recogida e interpretación de información en 6º de Educación Primaria. Este se llevará acabo a través de un trabajo cooperativo y su uso guiado de herramientas digitales. El producto final es la creación de una infografía sobre las acciones para mejorar actividades diarias que pueden dañar el mediomabiente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779402126540-rbbx0kppz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es una situación de Aprendizaje centrada en la búsqueda, recogida e interpretación de información en 6º de Educación Primaria. Este se llevará acabo a través de un trabajo cooperativo y su uso guiado de herramientas digitales. El producto final es la creación de una infografía sobre las acciones para mejorar actividades diarias que pueden dañar el mediomabiente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779402052619-mxq92oxg8</odePageId>
+      <odeBlockId>block-1779402300513-jfhawrccc</odeBlockId>
+      <blockName>Licencia de uso</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779402052619-mxq92oxg8</odePageId>
+          <odeBlockId>block-1779402300513-jfhawrccc</odeBlockId>
+          <odeIdeviceId>idevice-1779402300512-kxa8oyqqd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso se publica bajo licencia: Creative Commons CC BY-NC-SA 4.0</p>
+<p>Se permite su uso, adaptación y difusión siempre que se reconozca la autoría, no se permite su utilización con fines comerciales y se comparta siempre bajo licencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779402300512-kxa8oyqqd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso se publica bajo licencia: Creative Commons CC BY-NC-SA 4.0</p>\n<p>Se permite su uso, adaptación y difusión siempre que se reconozca la autoría, no se permite su utilización con fines comerciales y se comparta siempre bajo licencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779402052619-mxq92oxg8</odePageId>
+      <odeBlockId>block-1779402440359-u7mkhuekt</odeBlockId>
+      <blockName>Imágenes utilizadas</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779402052619-mxq92oxg8</odePageId>
+          <odeBlockId>block-1779402440359-u7mkhuekt</odeBlockId>
+          <odeIdeviceId>idevice-1779402440359-l21g7d55u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Todas las imágenes utilizadas proceden de bancos de recursos con licencia Creative Commons.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779402440359-l21g7d55u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Todas las imágenes utilizadas proceden de bancos de recursos con licencia Creative Commons.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779402052619-mxq92oxg8</odePageId>
+      <odeBlockId>block-1779404919368-zff126qww</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779402052619-mxq92oxg8</odePageId>
+          <odeBlockId>block-1779404919368-zff126qww</odeBlockId>
+          <odeIdeviceId>idevice-1779404919367-8dk38gkuo</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¿Tenemos educación medioambiental?</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Paula María Martín Díaz</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
